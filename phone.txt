@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Phone Has Music Player
  
+=======
+Phone has INTERNET
+>>>>>>> internet
